@@ -1,0 +1,14 @@
+{
+  "name": "sigil-flip",
+  "version": "1.0.0",
+  "devDependencies": {
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp": "^3.9.0",
+    "browserify": "^11.2.0",
+    "babelify": "^6.3.0",
+    "mithril": "^0.2.0",
+    "gulp-sass": "^2.0.4"
+  }
+}

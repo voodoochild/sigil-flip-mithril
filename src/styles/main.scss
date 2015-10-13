@@ -1,0 +1,73 @@
+@import 'reset';
+@import 'mixins';
+@import 'typography';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+
+  @include media(tablet) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  @include media(desktop) {
+    justify-content: flex-start;
+  }
+}
+
+.items li {
+  font-size: 1.4rem;
+  line-height: 2;
+  order: 2;
+  padding: 1em;
+
+  @include media(tablet) {
+    flex-basis: 50%;
+  }
+
+  @include media(desktop) {
+    flex-basis: 33.3333%;
+  }
+
+  &.profitable {
+    order: 1;
+  }
+}
+
+.items a {
+  display: block;
+}
+
+.items a + a {
+  margin-top: .25em;
+}
+
+.icon {
+  height: 2em;
+  margin-right: .5em;
+  vertical-align: bottom;
+}
+
+.positive {
+  color: limegreen;
+}
+
+.negative {
+  color: red;
+}

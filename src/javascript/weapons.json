@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 31058,
+    "name": "Abyssal Scepter",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31046,
+    "name": "Accursed Chains",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 27020,
+    "name": "Adam",
+    "sigil": "Superior Sigil of Intelligence"
+  },
+  {
+    "id": 26860,
+    "name": "Adder's Hiss",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 31074,
+    "name": "Aether",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 26221,
+    "name": "Ak-Muhl's Jaw",
+    "sigil": "Superior Sigil of Leeching"
+  },
+  {
+    "id": 47087,
+    "name": "Al'ir'aska",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 26228,
+    "name": "Alderune's Last Stand",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31038,
+    "name": "Ambrosia",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 44978,
+    "name": "Anton's Boot Blade",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 26395,
+    "name": "Anura",
+    "sigil": "Superior Sigil of Leeching"
+  },
+  {
+    "id": 36051,
+    "name": "Arachnophobia",
+    "sigil": "Superior Sigil of the Night"
+  },
+  {
+    "id": 27024,
+    "name": "Arcanus Obscurus",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 44980,
+    "name": "Arc",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 44983,
+    "name": "Arthropoda",
+    "sigil": "Superior Sigil of Frailty"
+  },
+  {
+    "id": 28109,
+    "name": "Atlatl",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 27813,
+    "name": "Avirdanag",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 27952,
+    "name": "Axiquiotl",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 27958,
+    "name": "Azure Railgun",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 31071,
+    "name": "Azureflame",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 27174,
+    "name": "Beacon of Kryta",
+    "sigil": "Superior Sigil of Hobbling"
+  },
+  {
+    "id": 44982,
+    "name": "Beacon of Light",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 27184,
+    "name": "Beacon of the True Legions",
+    "sigil": "Superior Sigil of Intelligence"
+  },
+  {
+    "id": 26408,
+    "name": "Big Juju",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 47088,
+    "name": "Bite of the Ebon Viper",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 47086,
+    "name": "Black Fleet Bludgeon",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 28131,
+    "name": "Blastmaster 3000",
+    "sigil": "Superior Sigil of Serpent Slaying"
+  },
+  {
+    "id": 47097,
+    "name": "Blaze of the Serpents",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 27017,
+    "name": "Bloodseeker",
+    "sigil": "Superior Sigil of Demon Summoning"
+  },
+  {
+    "id": 44960,
+    "name": "Bonetti's Rapier",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 27795,
+    "name": "Bow of the Pale Stag",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 28266,
+    "name": "Bow of the White Hart",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 27478,
+    "name": "Bramblethorne",
+    "sigil": "Superior Sigil of Chilling"
+  },
+  {
+    "id": 26703,
+    "name": "Brandt",
+    "sigil": "Superior Sigil of Intelligence"
+  },
+  {
+    "id": 47085,
+    "name": "Breath of Flame",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 29171,
+    "name": "Carcharias",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 47084,
+    "name": "Chalice of the Gods",
+    "sigil": "Superior Sigil of Energy"
+  },
+  {
+    "id": 29174,
+    "name": "Chaos Gun",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27955,
+    "name": "Charrzooka",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 26148,
+    "name": "Claws of the Desert",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 44977,
+    "name": "Cobalt",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 47098,
+    "name": "Coiler",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 26405,
+    "name": "Coldsnap",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 44991,
+    "name": "Combustion",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 27171,
+    "name": "Combustion",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 31040,
+    "name": "Cooguloosh",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 31042,
+    "name": "Courage",
+    "sigil": "Superior Sigil of Energy"
+  },
+  {
+    "id": 31059,
+    "name": "Cragstone",
+    "sigil": "Superior Sigil of Debility"
+  },
+  {
+    "id": 44984,
+    "name": "Crustacea",
+    "sigil": "Superior Sigil of Frailty"
+  },
+  {
+    "id": 44985,
+    "name": "Crystal Guardian",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 47096,
+    "name": "Crystalline Blade",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 44967,
+    "name": "Cutthroat Caller",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 29169,
+    "name": "Dawn",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27485,
+    "name": "Deathwish",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 27179,
+    "name": "Defiant Blaze",
+    "sigil": "Superior Sigil of Energy"
+  },
+  {
+    "id": 27338,
+    "name": "Dhuumseal",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 28583,
+    "name": "Dragonfury",
+    "sigil": "Superior Sigil of Smoldering"
+  },
+  {
+    "id": 26706,
+    "name": "Dragonshot",
+    "sigil": "Superior Sigil of Chilling"
+  },
+  {
+    "id": 28576,
+    "name": "Dragonspine",
+    "sigil": "Superior Sigil of Venom"
+  },
+  {
+    "id": 28112,
+    "name": "Drakestrike",
+    "sigil": "Superior Sigil of Leeching"
+  },
+  {
+    "id": 47093,
+    "name": "Drakevenom",
+    "sigil": "Superior Sigil of Restoration"
+  },
+  {
+    "id": 31037,
+    "name": "Dreadwing",
+    "sigil": "Superior Sigil of Hobbling"
+  },
+  {
+    "id": 25988,
+    "name": "Droknar's Forgehammer",
+    "sigil": "Superior Sigil of Agony"
+  },
+  {
+    "id": 28275,
+    "name": "Droknar's Recurve Bow",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 27808,
+    "name": "Droknar's Short Bow",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 29185,
+    "name": "Dusk",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27328,
+    "name": "Ebonblade",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 28262,
+    "name": "\u00c9ibhear Dunn",
+    "sigil": "Superior Sigil of Intelligence"
+  },
+  {
+    "id": 27791,
+    "name": "\u00c9ibhear Finn",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 31062,
+    "name": "Eidolon",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 28272,
+    "name": "Eir's Longbow",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 27802,
+    "name": "Eir's Short Bow",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 26400,
+    "name": "Emberglow",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 27495,
+    "name": "Emberspire",
+    "sigil": "Superior Sigil of Smoldering"
+  },
+  {
+    "id": 44964,
+    "name": "Entropy",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 44974,
+    "name": "Exterminator",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 31056,
+    "name": "Eye of Rodgort",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 47091,
+    "name": "Faithful",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 31073,
+    "name": "Feathers of Dwayna",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 28269,
+    "name": "Final Curse",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 31064,
+    "name": "Firebringer",
+    "sigil": "Superior Sigil of Smoldering"
+  },
+  {
+    "id": 27164,
+    "name": "Firelighter",
+    "sigil": "Superior Sigil of Restoration"
+  },
+  {
+    "id": 25979,
+    "name": "Fixer Upper",
+    "sigil": "Superior Sigil of Energy"
+  },
+  {
+    "id": 28117,
+    "name": "Flamebelcher",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 31082,
+    "name": "Flux Matrix",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 31077,
+    "name": "Foefire's Essence",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 31078,
+    "name": "Foefire's Power",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 28277,
+    "name": "Ganadriva",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 31043,
+    "name": "Gaze",
+    "sigil": "Superior Sigil of Demon Summoning"
+  },
+  {
+    "id": 26708,
+    "name": "Gearbore",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 44965,
+    "name": "Genesis",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 47083,
+    "name": "Glimmerfang",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 31047,
+    "name": "Glint's Scale",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31049,
+    "name": "Goblet of Kings",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 31041,
+    "name": "Godswalk Enchiridion",
+    "sigil": "Superior Sigil of Chilling"
+  },
+  {
+    "id": 26557,
+    "name": "Grimward",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 26544,
+    "name": "Guardian of the Six",
+    "sigil": "Superior Sigil of Intelligence"
+  },
+  {
+    "id": 44971,
+    "name": "Guild Defender",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 28593,
+    "name": "Gungnir",
+    "sigil": "Superior Sigil of Serpent Slaying"
+  },
+  {
+    "id": 47090,
+    "name": "Handheld Disaster",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 31084,
+    "name": "Heart of Mellaggan",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 26231,
+    "name": "Honor of Humanity",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 26869,
+    "name": "Horn of the Rogue Bull",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 29184,
+    "name": "Howl",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 26380,
+    "name": "Hypnotic Scepter",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31088,
+    "name": "Ignus Fatuus",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 31054,
+    "name": "Illusion",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 31076,
+    "name": "Ilya",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 31057,
+    "name": "Immobulus",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 44976,
+    "name": "Impaler",
+    "sigil": "Superior Sigil of Frailty"
+  },
+  {
+    "id": 27498,
+    "name": "Imryldyeen",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 31068,
+    "name": "Infinite Light",
+    "sigil": "Superior Sigil of Luck"
+  },
+  {
+    "id": 27014,
+    "name": "Infinite Wisdom",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 27644,
+    "name": "Ironfist",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 25964,
+    "name": "Jaws of Death",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 26537,
+    "name": "Jora's Defender",
+    "sigil": "Superior Sigil of Debility"
+  },
+  {
+    "id": 31065,
+    "name": "Jormag's Breath",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 31105,
+    "name": "Jormag's Needle",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 26139,
+    "name": "Kenshi's Wing",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 25985,
+    "name": "Kevin",
+    "sigil": "Superior Sigil of Grawl Slaying"
+  },
+  {
+    "id": 27336,
+    "name": "Khrysaor, the Golden Sword",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 44962,
+    "name": "King's Remembrance",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 25958,
+    "name": "Knot of Justice",
+    "sigil": "Superior Sigil of Restoration"
+  },
+  {
+    "id": 44961,
+    "name": "Knowledge is Power",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 26874,
+    "name": "Kodanroar",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 44986,
+    "name": "Komalie's Sacrificial Blade",
+    "sigil": "Superior Sigil of Demon Summoning"
+  },
+  {
+    "id": 26541,
+    "name": "Kryta's Embrace",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27325,
+    "name": "Kymswarden",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 25967,
+    "name": "Labrys",
+    "sigil": "Superior Sigil of Hobbling"
+  },
+  {
+    "id": 29172,
+    "name": "Leaf of Kudzu",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 44973,
+    "name": "Levvi's Detector",
+    "sigil": "Superior Sigil of Speed"
+  },
+  {
+    "id": 31081,
+    "name": "Lidless Eye",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 28423,
+    "name": "Limitless Furnace",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 44969,
+    "name": "Lord Taeres's Shadow",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 31080,
+    "name": "Lyss",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 27638,
+    "name": "Magmaton",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 28436,
+    "name": "Malachidean",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 26150,
+    "name": "Malefacterym",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 31044,
+    "name": "Malice",
+    "sigil": "Superior Sigil of Debility"
+  },
+  {
+    "id": 26697,
+    "name": "Master Blaster",
+    "sigil": "Superior Sigil of Restoration"
+  },
+  {
+    "id": 25971,
+    "name": "Maw of the Damned",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 44988,
+    "name": "Mecha Anchor",
+    "sigil": "Superior Sigil of Benevolence"
+  },
+  {
+    "id": 31061,
+    "name": "Melandru's Gaze",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 27482,
+    "name": "Memory of the Sky",
+    "sigil": "Superior Sigil of Restoration"
+  },
+  {
+    "id": 31103,
+    "name": "Mirage",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 27007,
+    "name": "Mojo",
+    "sigil": "Superior Sigil of Leeching"
+  },
+  {
+    "id": 44992,
+    "name": "Monsoon",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 26135,
+    "name": "Moonshank",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 25992,
+    "name": "Moonshine",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 31087,
+    "name": "Naegling",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 27321,
+    "name": "Naga Fang",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 28589,
+    "name": "Nitro",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 44968,
+    "name": "Occultist Flame",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 26384,
+    "name": "Oikoumene",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 25969,
+    "name": "Ophidian",
+    "sigil": "Superior Sigil of Venom"
+  },
+  {
+    "id": 28430,
+    "name": "Peasant's Solution",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 44987,
+    "name": "Phoenix Reborn",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 31035,
+    "name": "Phoenix Talon",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 44963,
+    "name": "Poyaqui's Noggin",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 29179,
+    "name": "Rage",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 44990,
+    "name": "Razah's Nightmare",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 25961,
+    "name": "Razorstone",
+    "sigil": "Superior Sigil of Debility"
+  },
+  {
+    "id": 31034,
+    "name": "Reaver of the Mists",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 27649,
+    "name": "Remnant of Ascalon",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 26237,
+    "name": "Resonator",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 28591,
+    "name": "Rhongomyniad",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 47092,
+    "name": "Rivetwall",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 44966,
+    "name": "Rockweed Spire",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 29182,
+    "name": "Rodgort's Flame",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 26693,
+    "name": "Ruinmaker",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 31066,
+    "name": "Rusttooth",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 44972,
+    "name": "Scepter of the Highborn",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 47089,
+    "name": "Scorchrazor's Fist",
+    "sigil": "Superior Sigil of Leeching"
+  },
+  {
+    "id": 47094,
+    "name": "Serpentsniper",
+    "sigil": "Superior Sigil of Earth"
+  },
+  {
+    "id": 25990,
+    "name": "Serpentstone",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 26552,
+    "name": "Shield of the Moon",
+    "sigil": "Superior Sigil of Purity"
+  },
+  {
+    "id": 26561,
+    "name": "Shield of the Wing",
+    "sigil": "Superior Sigil of Battle"
+  },
+  {
+    "id": 44975,
+    "name": "Shiverstone",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 27502,
+    "name": "Silence",
+    "sigil": "Superior Sigil of Hobbling"
+  },
+  {
+    "id": 26854,
+    "name": "Siren's Call",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 27334,
+    "name": "Skybringer",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 31050,
+    "name": "Song of the Numberless Pack",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 44989,
+    "name": "Song of the Temptress",
+    "sigil": "Superior Sigil of Water"
+  },
+  {
+    "id": 26145,
+    "name": "Soulshard",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 28580,
+    "name": "Spade of the Deep",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 29167,
+    "name": "Spark",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27963,
+    "name": "Spectral Wave Modulator",
+    "sigil": "Superior Sigil of Chilling"
+  },
+  {
+    "id": 31051,
+    "name": "Spirit Links",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31048,
+    "name": "Squeedily Spooch",
+    "sigil": "Superior Sigil of Venom"
+  },
+  {
+    "id": 44979,
+    "name": "Stardust",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 28444,
+    "name": "SteamFire",
+    "sigil": "Superior Sigil of Serpent Slaying"
+  },
+  {
+    "id": 29176,
+    "name": "Storm",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 31063,
+    "name": "Stygian Blade",
+    "sigil": "Superior Sigil of Demon Summoning"
+  },
+  {
+    "id": 27187,
+    "name": "Sun God's Gift",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 47082,
+    "name": "Super Hyperbeam Alpha",
+    "sigil": "Superior Sigil of Air"
+  },
+  {
+    "id": 31106,
+    "name": "Tear of Grenth",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 31045,
+    "name": "The Anomaly",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 29168,
+    "name": "The Bard",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 27647,
+    "name": "The Briny Deep",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 29177,
+    "name": "The Chosen",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 29170,
+    "name": "The Colossus",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 36070,
+    "name": "The Crossing",
+    "sigil": "Superior Sigil of the Night"
+  },
+  {
+    "id": 29173,
+    "name": "The Energizer",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 35725,
+    "name": "The Fate of Menzies",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 29175,
+    "name": "The Hunter",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 47099,
+    "name": "The Hunt",
+    "sigil": "Superior Sigil of Geomancy"
+  },
+  {
+    "id": 29180,
+    "name": "The Legend",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 29178,
+    "name": "The Lover",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 36056,
+    "name": "The Mad Moon",
+    "sigil": "Superior Sigil of the Night"
+  },
+  {
+    "id": 28426,
+    "name": "The Malestrom",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 27634,
+    "name": "The Punisher",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 28122,
+    "name": "The Stingray",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 27641,
+    "name": "The Ugly Stick",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 26850,
+    "name": "Tinwail",
+    "sigil": "Superior Sigil of Energy"
+  },
+  {
+    "id": 31055,
+    "name": "Titans' Vengeance",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 29166,
+    "name": "Tooth of Frostfang",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 28441,
+    "name": "Trident of the True Legion",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 27798,
+    "name": "Trosa's Short Bow",
+    "sigil": "Superior Sigil of Venom"
+  },
+  {
+    "id": 44981,
+    "name": "Truth",
+    "sigil": "Superior Sigil of Justice"
+  },
+  {
+    "id": 26389,
+    "name": "Tsunami",
+    "sigil": "Superior Sigil of Bloodlust"
+  },
+  {
+    "id": 26234,
+    "name": "Twin Sisters",
+    "sigil": "Superior Sigil of Force"
+  },
+  {
+    "id": 44999,
+    "name": "Twin Talons",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 31067,
+    "name": "Unspoken Curse",
+    "sigil": "Superior Sigil of Blood"
+  },
+  {
+    "id": 28127,
+    "name": "Urchin's Needles",
+    "sigil": "Superior Sigil of Agony"
+  },
+  {
+    "id": 26152,
+    "name": "Usoku's Needle",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 29183,
+    "name": "Venom",
+    "sigil": "Superior Sigil of Rage"
+  },
+  {
+    "id": 26700,
+    "name": "Venomstriker",
+    "sigil": "Superior Sigil of Smoldering"
+  },
+  {
+    "id": 27948,
+    "name": "Vera",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 31052,
+    "name": "Vision of the Mists",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 31053,
+    "name": "Volcanus",
+    "sigil": "Superior Sigil of Fire"
+  },
+  {
+    "id": 31060,
+    "name": "Wall of the Mists",
+    "sigil": "Superior Sigil of Nullification"
+  },
+  {
+    "id": 31069,
+    "name": "Whisperblade",
+    "sigil": "Superior Sigil of Peril"
+  },
+  {
+    "id": 26857,
+    "name": "Windstorm",
+    "sigil": "Superior Sigil of Perception"
+  },
+  {
+    "id": 26239,
+    "name": "Winged Spatha",
+    "sigil": "Superior Sigil of Corruption"
+  },
+  {
+    "id": 31070,
+    "name": "Wings of Dwayna",
+    "sigil": "Superior Sigil of Life"
+  },
+  {
+    "id": 31075,
+    "name": "Wintersbark",
+    "sigil": "Superior Sigil of Hydromancy"
+  },
+  {
+    "id": 31072,
+    "name": "Wintersbite",
+    "sigil": "Superior Sigil of Ice"
+  },
+  {
+    "id": 44970,
+    "name": "X6-31 Beta",
+    "sigil": "Superior Sigil of Accuracy"
+  },
+  {
+    "id": 27022,
+    "name": "X7-10 Alpha",
+    "sigil": "Superior Sigil of Stamina"
+  },
+  {
+    "id": 29181,
+    "name": "Zap",
+    "sigil": "Superior Sigil of Rage"
+  }
+]
